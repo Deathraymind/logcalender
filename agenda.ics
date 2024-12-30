@@ -6,43 +6,59 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:kVObRGfenVMxbqCmWKf-P
+UID:bFJD45JP4a30L2smVdc4N
 SUMMARY:Week 2: Section 2 Threats Vulnerabilties and Mitagations
-DTSTAMP:20241230T111613Z
+DTSTAMP:20241230T111750Z
 DTSTART;VALUE=DATE:20250110
 DESCRIPTION:project: Security+\n\nLogseq Deep Link: logseq://graph/obsidian
 	?block-id=676fc7b9-91f1-497b-9876-c1f93819eaae
 END:VEVENT
 BEGIN:VEVENT
-UID:JDJIL3Ax-cJo3zBI_IVOW
-SUMMARY:Week 1: Section 1 General Security Concepts 18 Videos
-DTSTAMP:20241230T111613Z
-DTSTART;VALUE=DATE:20250103
-DESCRIPTION:project: Security+\n\nLogseq Deep Link: logseq://graph/obsidian
-	?block-id=676fc78f-b7d9-4ce3-8b35-d25e21b72076
-END:VEVENT
-BEGIN:VEVENT
-UID:_b7ZbKZ1jlohjOdgl82TB
-SUMMARY:Week 3: Section 3 Security Architecture
-DTSTAMP:20241230T111613Z
-DTSTART;VALUE=DATE:20250117
-DESCRIPTION:project: Security+\n\nLogseq Deep Link: logseq://graph/obsidian
-	?block-id=676fc7d7-b2af-41b0-9189-94ea904cb1a3
-END:VEVENT
-BEGIN:VEVENT
-UID:Q_G4BdoDvRCazW1GLZ_-0
+UID:Cm-jehomXd0kf305RI7Ye
 SUMMARY:Week 4: Security Operations
-DTSTAMP:20241230T111613Z
+DTSTAMP:20241230T111750Z
 DTSTART;VALUE=DATE:20250124
 DESCRIPTION:project: Security+\n\nLogseq Deep Link: logseq://graph/obsidian
 	?block-id=676fc7f3-26f3-41b0-90f4-7f17cfac70ca
 END:VEVENT
 BEGIN:VEVENT
-UID:ntUqbYJOQG8eXHHX9XeYo
+UID:5hPXqiaRtTHtozuHT2C0I
+SUMMARY:Security+ 1.4
+DTSTAMP:20241230T111750Z
+DTSTART;VALUE=DATE:20241231
+DESCRIPTION:project: Dec 30th\, 2024\n\nLogseq Deep Link: logseq://graph/ob
+	sidian?block-id=67727813-8e94-4c45-bf5f-e9f077caef73
+END:VEVENT
+BEGIN:VEVENT
+UID:Gti3lB4Vg7NTfU1OC5RTr
+SUMMARY:Week 1: Section 1 General Security Concepts 18 Videos
+DTSTAMP:20241230T111750Z
+DTSTART;VALUE=DATE:20250103
+DESCRIPTION:project: Security+\n\nLogseq Deep Link: logseq://graph/obsidian
+	?block-id=676fc78f-b7d9-4ce3-8b35-d25e21b72076
+END:VEVENT
+BEGIN:VEVENT
+UID:gTu31Ruqa75HvDC4aDdLv
+SUMMARY:Week 3: Section 3 Security Architecture
+DTSTAMP:20241230T111750Z
+DTSTART;VALUE=DATE:20250117
+DESCRIPTION:project: Security+\n\nLogseq Deep Link: logseq://graph/obsidian
+	?block-id=676fc7d7-b2af-41b0-9189-94ea904cb1a3
+END:VEVENT
+BEGIN:VEVENT
+UID:hV6Xw7iiaxpQnCmiRMlBO
 SUMMARY:Week 5: Security Program Management and Oversight
-DTSTAMP:20241230T111613Z
+DTSTAMP:20241230T111750Z
 DTSTART;VALUE=DATE:20250131
 DESCRIPTION:project: Security+\n\nLogseq Deep Link: logseq://graph/obsidian
 	?block-id=676fc80b-7795-4e5f-8abd-15dd81dca6d0
+END:VEVENT
+BEGIN:VEVENT
+UID:t1Xuc4wMrCqLeo_z5qz06
+SUMMARY:Security+ 1.4
+DTSTAMP:20241230T111750Z
+DTSTART;VALUE=DATE:20241230
+DESCRIPTION:project: Dec 30th\, 2024\n\nLogseq Deep Link: logseq://graph/ob
+	sidian?block-id=677277ec-4afd-4d7f-bdbf-3f56f4866c9c
 END:VEVENT
 END:VCALENDAR
